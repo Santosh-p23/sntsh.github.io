@@ -1,0 +1,41 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #192127;
+    color: white;
+}
+
+a {
+    color: yellow;
+}
+
+.container {
+    margin-left: 2rem;
+}
+
+@media (max-width: 75rem) {
+    .container {
+        margin: auto;
+        width: 950px;
+    }
+}
+
+@media (max-width: 56.25em) {
+    .container {
+        margin: auto;
+        width: 700px;
+    }
+}
+
+@media (max-width: 37.5em) {
+    .container {
+        margin: auto;
+        width: 375px;
+    }
+}
+
+@media (max-width: 23.55em) {
+    .container {
+        width: 300px;
+        margin: auto;
+    }
+}

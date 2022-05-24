@@ -1,0 +1,17 @@
+{
+    "name": "sntsh-portfolio",
+    "version": "1.0.0",
+    "description": "Portfolio website for Santosh Pangeni",
+    "main": "index.js",
+    "scripts": {
+        "watch:sass": "sass sass/main.scss css/style.css --watch"
+    },
+    "keywords": [
+        "portfolio"
+    ],
+    "author": "Santosh Pangeni",
+    "license": "ISC",
+    "devDependencies": {
+        "sass": "^1.32.8"
+    }
+}
