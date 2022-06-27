@@ -78,11 +78,11 @@
 
 ---
 
-#### MOOC and Courses
-- DeepLearning (Coursera)
+#### Courses and Certifications
+- Deep Learning (Coursera)
 - Neural Networks (Coursera)
-- Django (freecodecamp.org)
-- React (scrimba)
+- Blockchain Specialization (Coursera)
+- Machine Learning (Kaggle)
 
 ---
 
